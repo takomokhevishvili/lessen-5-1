@@ -1,0 +1,49 @@
+h6 {
+	text-align: center;
+}
+.main-box {
+	margin: 36px;
+	margin-top: 6px;
+	border: solid;
+	border-color: #006837;
+	background-color: #56836F;
+	padding: 70px;
+}
+.main-img {
+	float: right;
+}
+li {
+	float: right;
+	color: #FFFFFF;
+	margin-right: 100px;
+	}
+.clear {
+	clear: both;
+}
+.nav {
+	margin-right: 50px;
+	font-size: 48px;
+	text-transform: uppercase;
+	font-family: 'Karla';
+	font-weight: 400;
+}
+.div-box1 {
+	width: 545px;
+	float: left;
+	background-color: #FCEE21;
+	margin-right: 18px;
+	margin-top: 63px;
+	padding: 20px;
+}
+.div-img-1 {
+	float: right;
+	margin: 20px;
+}
+.div-img-2 {
+	float: left;
+	margin: 20px;
+}
+.div-paragraph {
+	text-transform: uppercase;
+	font-family: 'Karla';
+}
